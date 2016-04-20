@@ -1,0 +1,39 @@
+Report for Institution Code KSTC, Resource kstc_schmidt_mammals
+Usage stats for March 2016, generated on 2016/04/20
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 0
+Number of records retrieved in searches: 0
+Number of different countries where searches have been originated: 0
+
+Origin of the queries that retrieved data from the resource: 
+
+Dates of the queries that retrieved data from the resource: 
+
+List of queries that retrieved data from the resource: 
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 15 (out of 230 download events in this period)
+Total number of records downloaded: 15
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 5
+	Country: Unknown ; Times: 10
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-03-09 ; Times: 3
+	Date: 2016-03-07 ; Times: 2
+	Date: 2016-03-05 ; Times: 2
+	Date: 2016-03-11 ; Times: 2
+	Date: 2016-03-10 ; Times: 4
+	Date: 2016-03-13 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "ochotona" ; Times: 2
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 13
+
+
+End of report.
