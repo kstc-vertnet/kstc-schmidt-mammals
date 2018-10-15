@@ -1,0 +1,88 @@
+Report for Institution Code KSTC, Resource kstc_schmidt_mammals
+Usage stats for January 2018, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 13
+Number of records retrieved in searches: 15
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 11
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-01-25 ; Times: 1
+	Date: 2018-01-31 ; Times: 2
+	Date: 2018-01-16 ; Times: 5
+	Date: 2018-01-22 ; Times: 4
+	Date: 2018-01-23 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "D. virginiana Didelphis virginiana mappable:1" ; Times: 2
+	Query: "genus:Spilogale putorius stateprovince:&#34;Oklahoma&#34;" ; Times: 2
+	Query: "genus:Spilogale stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "specificepithet:dorsatum genus:erethizon stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "Choeronycteris mexicana" ; Times: 1
+	Query: "Dasypus novemcinctus" ; Times: 1
+	Query: "specificepithet:carolinensis genus:sciurus stateprovince:&#34;Oklahoma&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "&#34;Dasypus novencinctus&#34;" ; Times: 1
+	Query: "specificepithet:townsendii genus:lepus institutioncode:KSTC" ; Times: 1
+	Query: "specificepithet:dorsatum genus:erethizon stateprovince:&#34;oklahoma&#34;" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 29 (out of 1398 download events in this period)
+Total number of records downloaded: 329
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 20
+	Country: Mexico ; Times: 1
+	Country: Italy ; Times: 7
+	Country: France ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-01-19 ; Times: 1
+	Date: 2018-01-18 ; Times: 1
+	Date: 2018-01-31 ; Times: 1
+	Date: 2018-01-30 ; Times: 2
+	Date: 2018-01-02 ; Times: 7
+	Date: 2018-01-15 ; Times: 1
+	Date: 2018-01-13 ; Times: 1
+	Date: 2018-01-06 ; Times: 5
+	Date: 2018-01-04 ; Times: 1
+	Date: 2018-01-16 ; Times: 3
+	Date: 2018-01-25 ; Times: 2
+	Date: 2018-01-23 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Spilogale stateprovince:&#34;oklahoma&#34;" ; Times: 2
+	Query: "Dipodomys spectabilis" ; Times: 1
+	Query: "Rattus norvegicus" ; Times: 1
+	Query: "specificepithet:princeps genus:Ochotona" ; Times: 1
+	Query: "Myotis grisescens mappable:1" ; Times: 1
+	Query: "Lasiurus borealis mappable:1" ; Times: 1
+	Query: "Rattus rattus" ; Times: 2
+	Query: "specificepithet:maniculatus genus:Peromyscus haslength:1" ; Times: 1
+	Query: "genus:peromyscus stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "Lepus californicus" ; Times: 1
+	Query: "Myotis lucifugus mappable:1" ; Times: 1
+	Query: "Procyon lotor" ; Times: 1
+	Query: "genus:Tamias striatus year &gt;= 1700 year &lt;= 1960 hasmass:1" ; Times: 1
+	Query: "Myotis sodalis" ; Times: 1
+	Query: "order:Chiroptera" ; Times: 1
+	Query: "specificepithet:fuscus genus:Eptesicus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Mus musculus" ; Times: 1
+	Query: "Lasiurus cinereus mappable:1" ; Times: 1
+	Query: "family:Sciuridae stateprovince:&#34;Oklahoma&#34;" ; Times: 2
+	Query: "order:Didelphimorphia" ; Times: 1
+	Query: "Sciurus carolinensis" ; Times: 1
+	Query: "Myotis ciliolabrum mappable:1" ; Times: 1
+	Query: "order:Chiroptera country:&#34;United States&#34;" ; Times: 1
+	Query: "Erethizon dorsatum" ; Times: 1
+	Query: "Dipodomys" ; Times: 1
+	Query: "genus:Zapus" ; Times: 1
+
+
+End of report.
