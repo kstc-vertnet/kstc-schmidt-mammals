@@ -1,0 +1,66 @@
+Report for Institution Code KSTC, Resource kstc_schmidt_mammals
+Usage stats for December 2017, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 5
+Number of records retrieved in searches: 5
+Number of different countries where searches have been originated: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-12-26 ; Times: 2
+	Date: 2017-12-12 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:novemcinctus genus:dasypus lengthtype:total length haslength:1" ; Times: 2
+	Query: "specificepithet:novemcinctus genus:dasypus hasmass:1" ; Times: 1
+	Query: "genus:blarina stateprovince:&#34;missouri&#34;" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 21 (out of 674 download events in this period)
+Total number of records downloaded: 143
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 19
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-12-27 ; Times: 3
+	Date: 2017-12-26 ; Times: 6
+	Date: 2017-12-20 ; Times: 1
+	Date: 2017-12-04 ; Times: 1
+	Date: 2017-12-14 ; Times: 2
+	Date: 2017-12-15 ; Times: 1
+	Date: 2017-12-11 ; Times: 2
+	Date: 2017-12-18 ; Times: 1
+	Date: 2017-12-19 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Spermophilus franklinii mappable:1" ; Times: 1
+	Query: "Microtus ochrogaster" ; Times: 1
+	Query: "Sciurus aberti" ; Times: 1
+	Query: "Sciurus carolinensis mappable:1" ; Times: 1
+	Query: "Microtus pinetorum mappable:1" ; Times: 1
+	Query: "sorex nanus" ; Times: 1
+	Query: "sylvilagus audubonii" ; Times: 1
+	Query: "Mustela nivalis mappable:1" ; Times: 2
+	Query: "Mustela frenata mappable:1" ; Times: 1
+	Query: "Sciurus niger mappable:1" ; Times: 1
+	Query: "Sylvilagus floridanus" ; Times: 1
+	Query: "Spermophilus tridecemlineatus mappable:1" ; Times: 1
+	Query: "Zapus hudsonius mappable:1" ; Times: 1
+	Query: "microtus montanus" ; Times: 1
+	Query: "sorex monticolus" ; Times: 1
+	Query: "sorex palustris" ; Times: 1
+	Query: "specificepithet:palustris genus:Oryzomys stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "specificepithet:grisescens genus:Myotis" ; Times: 1
+	Query: "Sylvilagus floridanus mappable:1" ; Times: 1
+	Query: "sorex vagrans" ; Times: 1
+
+
+End of report.
