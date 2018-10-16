@@ -1,0 +1,54 @@
+Report for Institution Code KSTC, Resource kstc_schmidt_mammals
+Usage stats for May 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 6
+Number of records retrieved in searches: 7
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+	Country: Italy ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-04 ; Times: 1
+	Date: 2018-05-03 ; Times: 2
+	Date: 2018-05-08 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Didelphis catalognumber:M0738 institutioncode:KSTC" ; Times: 1
+	Query: "specificepithet:gossypinus genus:peromyscus year&gt;=1950 year&lt;=2018" ; Times: 1
+	Query: "Lutra lutra" ; Times: 2
+	Query: "mustela nivalis" ; Times: 1
+	Query: "genus:Didelphis catalognumber:M0586 institutioncode:KSTC" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 6 (out of 1178 download events in this period)
+Total number of records downloaded: 79
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 3
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-06 ; Times: 1
+	Date: 2018-05-07 ; Times: 1
+	Date: 2018-05-17 ; Times: 1
+	Date: 2018-05-18 ; Times: 1
+	Date: 2018-05-09 ; Times: 1
+	Date: 2018-05-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:frenata genus:mustela haslength:1" ; Times: 1
+	Query: "genus:urocyon" ; Times: 1
+	Query: "chiroptera mexico" ; Times: 1
+	Query: "Procyon lotor" ; Times: 1
+	Query: "peromyscus maniculatus" ; Times: 1
+	Query: "specificepithet:dorsatum genus:Erethizon" ; Times: 1
+
+
+End of report.
