@@ -1,0 +1,38 @@
+Report for Institution Code KSTC, Resource kstc_schmidt_mammals
+Usage stats for June 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 0
+Number of records retrieved in searches: 0
+Number of different countries where searches have been originated: 0
+
+Origin of the queries that retrieved data from the resource: 
+
+Dates of the queries that retrieved data from the resource: 
+
+List of queries that retrieved data from the resource: 
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 7 (out of 1169 download events in this period)
+Total number of records downloaded: 2258
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+	Country: Argentina ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-21 ; Times: 1
+	Date: 2018-06-29 ; Times: 5
+	Date: 2018-06-20 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "class:Mammalia county:&#34;Pottawatomie&#34; stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "mappable:1 institutioncode:kstc" ; Times: 4
+	Query: "Microtus" ; Times: 1
+	Query: "genus:blarina stateprovince:&#34;kansas&#34;" ; Times: 1
+
+
+End of report.
