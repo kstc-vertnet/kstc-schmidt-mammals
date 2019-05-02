@@ -1,0 +1,67 @@
+Report for Institution Code KSTC, Resource kstc_schmidt_mammals
+Usage stats for April 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 7
+Number of records retrieved in searches: 17
+Number of different countries where searches have been originated: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-23 ; Times: 1
+	Date: 2019-04-10 ; Times: 2
+	Date: 2019-04-02 ; Times: 1
+	Date: 2019-04-24 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:novemcinctus genus:Dasypus" ; Times: 1
+	Query: "Choeronycteris mexicana" ; Times: 1
+	Query: "specificepithet:tereticaudus genus:spermophilus institutioncode:KSTC" ; Times: 1
+	Query: "family:Mephitidae collectioncode:Mammals institutioncode:KSTC" ; Times: 1
+	Query: "genus:Mephitis institutioncode:KSTC" ; Times: 1
+	Query: "vntype:specimen specificepithet:americanus genus:lepus stateprovince:&#34;Minnesota&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Spilogale institutioncode:KSTC" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 16 (out of 1263 download events in this period)
+Total number of records downloaded: 75
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 14
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-18 ; Times: 3
+	Date: 2019-04-23 ; Times: 1
+	Date: 2019-04-10 ; Times: 2
+	Date: 2019-04-17 ; Times: 1
+	Date: 2019-04-14 ; Times: 1
+	Date: 2019-04-30 ; Times: 2
+	Date: 2019-04-02 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "Myotis sodalis" ; Times: 1
+	Query: "Myotis velifer" ; Times: 1
+	Query: "specificepithet:novencinctus genus:Dasypus" ; Times: 1
+	Query: "Myotis ciliolabrum" ; Times: 1
+	Query: "vntype:specimen specificepithet:musculus genus:Mus hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "Lasiurus cinereus" ; Times: 1
+	Query: "Sciurus carolinensis" ; Times: 1
+	Query: "Myotis grisescens" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon" ; Times: 1
+	Query: "Urocyon cinereoargenteus" ; Times: 1
+	Query: "vntype:specimen specificepithet:americanus genus:lepus stateprovince:&#34;Minnesota&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "mustela frenata" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 1
+	Query: "Pipistrellus subflavus" ; Times: 1
+	Query: "Didelphis virginiana year &gt;= 1970" ; Times: 1
+	Query: "specificepithet:leucogaster genus:Onychomys stateprovince:&#34;Texas&#34;" ; Times: 1
+
+
+End of report.
