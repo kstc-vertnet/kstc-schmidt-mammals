@@ -1,0 +1,65 @@
+Report for Institution Code KSTC, Resource kstc_schmidt_mammals
+Usage stats for June 2019, generated on 2019/07/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 13
+Number of records retrieved in searches: 47
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 12
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-06-11 ; Times: 5
+	Date: 2019-06-21 ; Times: 1
+	Date: 2019-06-24 ; Times: 3
+	Date: 2019-06-10 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "class:mammalia stateprovince:&#34;vermont&#34; institutioncode:KSTC" ; Times: 1
+	Query: "genus:spermophilus class:mammalia institutioncode:KSTC" ; Times: 1
+	Query: "genus:Dasypus specificepithet:novemcinctus" ; Times: 2
+	Query: "genus:Lutra specificepithet:canadensis" ; Times: 1
+	Query: "genus:Choeronycteris specificepithet:mexicana" ; Times: 1
+	Query: "genus:Mustela specificepithet:nivalis" ; Times: 1
+	Query: "genus:tamias class:mammalia institutioncode:KSTC" ; Times: 1
+	Query: "genus:Lepus specificepithet:townsendii" ; Times: 1
+	Query: "order:Cingulata hasmass:1 haslength:1" ; Times: 1
+	Query: "genus:Synaptomys specificepithet:cooperi" ; Times: 2
+	Query: "genus:choeronycteris stateprovince:&#34;Arizona&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 10 (out of 1182 download events in this period)
+Total number of records downloaded: 17
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 8
+	Country: Peru ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-06-22 ; Times: 1
+	Date: 2019-06-24 ; Times: 1
+	Date: 2019-06-26 ; Times: 1
+	Date: 2019-06-08 ; Times: 1
+	Date: 2019-06-30 ; Times: 1
+	Date: 2019-06-06 ; Times: 1
+	Date: 2019-06-07 ; Times: 3
+	Date: 2019-06-13 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:gapperi genus:Clethrionomys" ; Times: 1
+	Query: "genus:cratogeomys stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "Castor canadensis" ; Times: 3
+	Query: "Castor canadensis canadensis" ; Times: 1
+	Query: "Mustela frenata" ; Times: 1
+	Query: "mustela frenata" ; Times: 1
+	Query: "castor canadensis" ; Times: 1
+	Query: "specificepithet:princeps genus:Ochotona year &gt;= 1956 year &lt;= 1975" ; Times: 1
+
+
+End of report.
