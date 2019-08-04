@@ -1,0 +1,57 @@
+Report for Institution Code KSTC, Resource kstc_schmidt_mammals
+Usage stats for July 2019, generated on 2019/08/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 6
+Number of records retrieved in searches: 14
+Number of different countries where searches have been originated: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-08 ; Times: 2
+	Date: 2019-07-02 ; Times: 2
+	Date: 2019-07-31 ; Times: 1
+	Date: 2019-07-25 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Marmota specificepithet:monax" ; Times: 1
+	Query: "Vulpes velox mappable:1" ; Times: 2
+	Query: "genus:Sciurus specificepithet:aberti" ; Times: 1
+	Query: "specificepithet:hudsonius genus:Zapus stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "genus:Erethizon stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 10 (out of 985 download events in this period)
+Total number of records downloaded: 82
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 5
+	Country: Unknown ; Times: 1
+	Country: Peru ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-09 ; Times: 1
+	Date: 2019-07-25 ; Times: 2
+	Date: 2019-07-29 ; Times: 1
+	Date: 2019-07-11 ; Times: 1
+	Date: 2019-07-05 ; Times: 1
+	Date: 2019-07-31 ; Times: 1
+	Date: 2019-07-04 ; Times: 1
+	Date: 2019-07-15 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Rattus norvegicus" ; Times: 3
+	Query: "genus:Erethizon stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "Desmodus rotundus" ; Times: 2
+	Query: "sciurus carolinensis" ; Times: 1
+	Query: "specificepithet:hudsonius genus:Zapus" ; Times: 1
+	Query: "specificepithet:hudsonius genus:Zapus stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "dasypus novemcinctus" ; Times: 1
+
+
+End of report.
