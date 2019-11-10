@@ -1,0 +1,71 @@
+Report for Institution Code KSTC, Resource kstc_schmidt_mammals
+Usage stats for September 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 29
+Number of records retrieved in searches: 98
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 18
+	Country: Thailand ; Times: 9
+	Country: United Kingdom ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-03 ; Times: 3
+	Date: 2019-09-20 ; Times: 2
+	Date: 2019-09-06 ; Times: 5
+	Date: 2019-09-05 ; Times: 9
+	Date: 2019-09-24 ; Times: 10
+
+List of queries that retrieved data from the resource: 
+	Query: "Myotis sodalis" ; Times: 5
+	Query: "Lasiurus cinereus haslength:1" ; Times: 1
+	Query: "specificepithet:nivalis genus:Mustela hasmass:1 haslength:1" ; Times: 1
+	Query: "Peromyscus maniculatus 1973" ; Times: 2
+	Query: "Desmodus rotundus haslength:1" ; Times: 1
+	Query: "Myotis velifer haslength:1" ; Times: 1
+	Query: "specificepithet:putorius genus:Spilogale hasmass:1 haslength:1" ; Times: 1
+	Query: "nivalis mustela" ; Times: 2
+	Query: "Peromyscus maniculatus 1989" ; Times: 2
+	Query: "Myotis lucifugus haslength:1" ; Times: 1
+	Query: "Lasiurus borealis haslength:1" ; Times: 1
+	Query: "genus:Dasypus hasmass:1 haslength:1" ; Times: 1
+	Query: "Myotis grisescens haslength:1" ; Times: 1
+	Query: "Choeronycteris mexicana haslength:1" ; Times: 1
+	Query: "Peromyscus maniculatus 1978" ; Times: 1
+	Query: "Peromyscus maniculatus 1997" ; Times: 2
+	Query: "Myotis ciliolabrum haslength:1" ; Times: 1
+	Query: "Myotis sodalis haslength:1" ; Times: 1
+	Query: "Peromyscus maniculatus 1993" ; Times: 1
+	Query: "Peromyscus maniculatus 1987" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 7 (out of 1073 download events in this period)
+Total number of records downloaded: 152
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-15 ; Times: 1
+	Date: 2019-09-27 ; Times: 1
+	Date: 2019-09-29 ; Times: 1
+	Date: 2019-09-28 ; Times: 1
+	Date: 2019-09-09 ; Times: 1
+	Date: 2019-09-06 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Peromyscus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Didelphis virginiana" ; Times: 1
+	Query: "&#34;Neotoma floridana&#34;" ; Times: 1
+	Query: "Microtus ochrogaster specificepithet:ochrogaster genus:Microtus" ; Times: 1
+	Query: "specificepithet:carolinensis genus:Sciurus" ; Times: 1
+	Query: "order:Rodentia county:&#34;Cochise&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "specificepithet:dorsatum genus:Erethizon" ; Times: 1
+
+
+End of report.
