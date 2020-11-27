@@ -1,0 +1,82 @@
+Report for Institution Code KSTC, Resource kstc_schmidt_mammals
+Usage stats for February 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 3
+Number of records retrieved in searches: 10
+Number of different countries where searches have been originated: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-10 ; Times: 2
+	Date: 2020-02-16 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "&#34;Lasiurus borealis&#34; continent:North America hasmass:1 haslength:1" ; Times: 1
+	Query: "&#34;Myotis sodalis&#34; continent:North America hasmass:1 haslength:1" ; Times: 1
+	Query: "Glaucomys volans (skull) hasmass:1 haslength:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 26 (out of 1023 download events in this period)
+Total number of records downloaded: 760
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 22
+	Country: Canada ; Times: 1
+	Country: France ; Times: 1
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-04 ; Times: 1
+	Date: 2020-02-03 ; Times: 1
+	Date: 2020-02-13 ; Times: 1
+	Date: 2020-02-10 ; Times: 5
+	Date: 2020-02-11 ; Times: 1
+	Date: 2020-02-25 ; Times: 1
+	Date: 2020-02-26 ; Times: 1
+	Date: 2020-02-12 ; Times: 2
+	Date: 2020-02-06 ; Times: 1
+	Date: 2020-02-14 ; Times: 2
+	Date: 2020-02-17 ; Times: 1
+	Date: 2020-02-16 ; Times: 1
+	Date: 2020-02-19 ; Times: 1
+	Date: 2020-02-15 ; Times: 1
+	Date: 2020-02-08 ; Times: 1
+	Date: 2020-02-09 ; Times: 1
+	Date: 2020-02-27 ; Times: 3
+	Date: 2020-02-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Peromyscus stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "&#34;Myotis lucifugus&#34; continent:North America hasmass:1 haslength:1" ; Times: 1
+	Query: "&#34;Lasiurus borealis&#34; continent:North America hasmass:1 haslength:1" ; Times: 1
+	Query: "zapus princeps" ; Times: 1
+	Query: "&#34;Lasiurus cinereus&#34; continent:North America hasmass:1 haslength:1" ; Times: 1
+	Query: "genus:peromyscus stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "sorex cinereus" ; Times: 1
+	Query: "genus:Tamiasciurus" ; Times: 1
+	Query: "genus:ochotona" ; Times: 1
+	Query: "vntype:specimen genus:Myotis continent:North America hasmass:1" ; Times: 1
+	Query: "genus:Cratogeomys stateprovince:&#34;Texas&#34; year &gt;= 1700 year &lt;= 1970" ; Times: 1
+	Query: "genus:Geomys family:Geomyidae basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Didelphis virginiana" ; Times: 2
+	Query: "sciurus niger" ; Times: 1
+	Query: "order:rodentia hassex:1 hasmass:1" ; Times: 1
+	Query: "genus:Geomys stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "&#34;Myotis sodalis&#34; continent:North America hasmass:1 haslength:1" ; Times: 1
+	Query: "order:Chiroptera hassex:1 hasmass:1" ; Times: 1
+	Query: "didelphis virginiana" ; Times: 1
+	Query: "Glaucomys volans (skull) hasmass:1 haslength:1" ; Times: 1
+	Query: "sigmodon hispidus" ; Times: 1
+	Query: "&#34;Eptesicus fuscus&#34; continent:North America hasmass:1 haslength:1" ; Times: 1
+	Query: "Myotis ciliolabrum basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:pennsylvanicus genus:microtus stateprovince:&#34;michigan&#34;" ; Times: 1
+	Query: "Peromyscus leucopus" ; Times: 1
+
+
+End of report.
