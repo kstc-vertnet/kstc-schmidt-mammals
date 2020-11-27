@@ -1,0 +1,89 @@
+Report for Institution Code KSTC, Resource kstc_schmidt_mammals
+Usage stats for April 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 26
+Number of records retrieved in searches: 35
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 9
+	Country: United Kingdom ; Times: 16
+	Country: India ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-19 ; Times: 1
+	Date: 2020-04-23 ; Times: 1
+	Date: 2020-04-10 ; Times: 1
+	Date: 2020-04-07 ; Times: 6
+	Date: 2020-04-15 ; Times: 1
+	Date: 2020-04-22 ; Times: 2
+	Date: 2020-04-30 ; Times: 1
+	Date: 2020-04-21 ; Times: 8
+	Date: 2020-04-01 ; Times: 2
+	Date: 2020-04-03 ; Times: 2
+	Date: 2020-04-08 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:ludovicianus genus:Cynomys haslength:1" ; Times: 2
+	Query: "Lutra lutra" ; Times: 9
+	Query: "Sciurus aberti" ; Times: 3
+	Query: "vntype:specimen specificepithet:gapperi genus:clethrionomys stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "Cynomys ludovicianus" ; Times: 4
+	Query: "Neotoma lepida" ; Times: 1
+	Query: "specificepithet:nivalis genus:mustela haslength:1" ; Times: 2
+	Query: "genus:spilogale institutioncode:KSTC" ; Times: 1
+	Query: "lasiurus borealis lengthtype:total length hasmass:1 haslength:1" ; Times: 1
+	Query: "lutra lutra" ; Times: 1
+	Query: "(reynolds) year &gt;= 1958 year &lt;= 1960" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 21 (out of 1171 download events in this period)
+Total number of records downloaded: 153
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 18
+	Country: India ; Times: 2
+	Country: Costa Rica ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-02 ; Times: 1
+	Date: 2020-04-05 ; Times: 1
+	Date: 2020-04-12 ; Times: 1
+	Date: 2020-04-17 ; Times: 1
+	Date: 2020-04-16 ; Times: 1
+	Date: 2020-04-14 ; Times: 2
+	Date: 2020-04-22 ; Times: 6
+	Date: 2020-04-23 ; Times: 4
+	Date: 2020-04-24 ; Times: 1
+	Date: 2020-04-28 ; Times: 2
+	Date: 2020-04-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "geomyidae hassex:1 hasmass:1" ; Times: 1
+	Query: "vntype:specimen genus:Glaucomys" ; Times: 1
+	Query: "specificepithet:brevicauda genus:blarina hasmass:1" ; Times: 1
+	Query: "genus:Lasiurus" ; Times: 1
+	Query: "Didelphis virginiana" ; Times: 1
+	Query: "vntype:specimen specificepithet:gapperi genus:clethrionomys stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "lutra lutra" ; Times: 1
+	Query: "specificepithet:frenata genus:mustela haslength:1" ; Times: 1
+	Query: "vntype:specimen order:Lagomorpha stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "vntype:specimen family:Soricidae stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "vntype:specimen genus:Scalopus" ; Times: 1
+	Query: "vntype:specimen order:Lagomorpha stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "genus:Erethizon haslength:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:fulvescens genus:Reithrodontomys" ; Times: 1
+	Query: "specificepithet:nivalis genus:mustela haslength:1" ; Times: 1
+	Query: "genus:ochotona" ; Times: 1
+	Query: "specificepithet:townsendii genus:lepus" ; Times: 1
+	Query: "Desmodus rotundus" ; Times: 1
+	Query: "vntype:specimen family:Soricidae stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "heteromyidae hassex:1 hasmass:1" ; Times: 1
+	Query: "sciurus" ; Times: 1
+
+
+End of report.
