@@ -1,0 +1,165 @@
+Report for Institution Code KSTC, Resource kstc_schmidt_mammals
+Usage stats for November 2020, generated on 2020/12/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 153
+Number of records retrieved in searches: 456
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 152
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-11-20 ; Times: 1
+	Date: 2020-11-06 ; Times: 5
+	Date: 2020-11-07 ; Times: 3
+	Date: 2020-11-04 ; Times: 4
+	Date: 2020-11-05 ; Times: 1
+	Date: 2020-11-11 ; Times: 1
+	Date: 2020-11-03 ; Times: 6
+	Date: 2020-11-10 ; Times: 130
+	Date: 2020-11-14 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "scientificname:Glaucomys volans" ; Times: 2
+	Query: "scientificname:Scalopus aquaticus" ; Times: 6
+	Query: "scientificname:Lepus americanus" ; Times: 2
+	Query: "scientificname:Didelphis virginiana" ; Times: 10
+	Query: "genus:microtus recordedby:Anderson" ; Times: 1
+	Query: "scientificname:Synaptomys cooperi" ; Times: 3
+	Query: "scientificname:Sorex palustris" ; Times: 1
+	Query: "order:Cingulata hasmass:1 haslength:1" ; Times: 1
+	Query: "scientificname:Tamias striatus" ; Times: 3
+	Query: "scientificname:Sylvilagus floridanus" ; Times: 4
+	Query: "scientificname:Condylura cristata" ; Times: 2
+	Query: "scientificname:Reithrodontomys fulvescens" ; Times: 1
+	Query: "genus:dasypus stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "scientificname:Sciurus carolinensis" ; Times: 5
+	Query: "scientificname:Mephitis mephitis" ; Times: 4
+	Query: "scientificname:Microtus pinetorum" ; Times: 8
+	Query: "scientificname:Procyon lotor" ; Times: 8
+	Query: "scientificname:Cryptotis parva" ; Times: 8
+	Query: "family:Dasypodidae hasmass:1" ; Times: 4
+	Query: "scientificname:Cynomys ludovicianus" ; Times: 6
+	Query: "scientificname:Lepus californicus" ; Times: 8
+	Query: "scientificname:Urocyon cinereoargenteus" ; Times: 1
+	Query: "scientificname:Myotis sodalis" ; Times: 2
+	Query: "order:Cingulata hasmass:1" ; Times: 8
+	Query: "scientificname:Ondatra zibethicus" ; Times: 4
+	Query: "scientificname:Marmota monax" ; Times: 6
+	Query: "scientificname:Lasiurus cinereus" ; Times: 6
+	Query: "scientificname:Myotis lucifugus" ; Times: 2
+	Query: "scientificname:Mustela frenata" ; Times: 6
+	Query: "scientificname:Castor Canadensis" ; Times: 2
+	Query: "scientificname:Eptesicus fuscus" ; Times: 2
+	Query: "scientificname:Lasiurus borealis" ; Times: 6
+	Query: "scientificname:Rattus norvegicus" ; Times: 12
+	Query: "specificepithet:velox genus:vulpes hasmass:1 haslength:1" ; Times: 1
+	Query: "scientificname:Zapus hudsonius" ; Times: 3
+	Query: "scientificname:Mustela nivalis" ; Times: 4
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 80 (out of 842 download events in this period)
+Total number of records downloaded: 1100
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 75
+	Country: Canada ; Times: 2
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-11-20 ; Times: 5
+	Date: 2020-11-23 ; Times: 11
+	Date: 2020-11-05 ; Times: 19
+	Date: 2020-11-08 ; Times: 3
+	Date: 2020-11-09 ; Times: 1
+	Date: 2020-11-06 ; Times: 8
+	Date: 2020-11-07 ; Times: 3
+	Date: 2020-11-04 ; Times: 15
+	Date: 2020-11-30 ; Times: 3
+	Date: 2020-11-03 ; Times: 5
+	Date: 2020-11-13 ; Times: 1
+	Date: 2020-11-10 ; Times: 1
+	Date: 2020-11-27 ; Times: 1
+	Date: 2020-11-15 ; Times: 2
+	Date: 2020-11-12 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Marmota monax" ; Times: 1
+	Query: "lasiurus borealis" ; Times: 1
+	Query: "Sciurus aberti" ; Times: 1
+	Query: "Dipodomys spectabilis" ; Times: 1
+	Query: "Peromyscus leucopus" ; Times: 1
+	Query: "Geomys bursarius" ; Times: 1
+	Query: "Ondatra zibethicus" ; Times: 1
+	Query: "mustela nivalis" ; Times: 1
+	Query: "Rattus norvegicus" ; Times: 1
+	Query: "glaucomys volans" ; Times: 1
+	Query: "Peromyscus boylii" ; Times: 1
+	Query: "Cratogeomys castanops" ; Times: 1
+	Query: "vntype:specimen specificepithet:tridecemlineatus genus:Spermophilus" ; Times: 1
+	Query: "Tamias quadrivittatus" ; Times: 1
+	Query: "erethizon dorsatum" ; Times: 1
+	Query: "Peromyscus gossypinus" ; Times: 1
+	Query: "Spermophilus lateralis" ; Times: 1
+	Query: "microtus pennsylvanicus" ; Times: 1
+	Query: "Rattus rattus" ; Times: 1
+	Query: "condylura cristata" ; Times: 1
+	Query: "Microtus ochrogaster" ; Times: 1
+	Query: "Spermophilus tridecemlineatus" ; Times: 1
+	Query: "specificepithet:floridanus genus:Sylvilagus haslength:1" ; Times: 1
+	Query: "Sciurus niger" ; Times: 1
+	Query: "lepus americanus" ; Times: 1
+	Query: "Reithrodontomys megalotis" ; Times: 1
+	Query: "microtus pinetorum" ; Times: 1
+	Query: "myotis grisescens" ; Times: 1
+	Query: "Peromyscus maniculatus" ; Times: 1
+	Query: "Thomomys talpoides" ; Times: 1
+	Query: "Oryzomys palustris" ; Times: 1
+	Query: "dipodomys ordii" ; Times: 1
+	Query: "Spilogale putorius" ; Times: 2
+	Query: "Microtus pinetorum" ; Times: 1
+	Query: "myotis sodalis" ; Times: 2
+	Query: "Lasiurus borealis" ; Times: 1
+	Query: "myotis lucifugus" ; Times: 1
+	Query: "microtus ochrogaster" ; Times: 1
+	Query: "Synaptomys cooperi" ; Times: 1
+	Query: "Dipodomys merriami" ; Times: 1
+	Query: "Peromyscus crinitus" ; Times: 1
+	Query: "cryptotis parva" ; Times: 2
+	Query: "Mus musculus" ; Times: 2
+	Query: "Sigmodon hispidus" ; Times: 2
+	Query: "specificepithet:floridanus genus:sylvilagus haslength:1" ; Times: 1
+	Query: "Neotoma lepida" ; Times: 1
+	Query: "Spermophilus tereticaudus" ; Times: 1
+	Query: "Neotoma floridana" ; Times: 1
+	Query: "Ochrotomys nuttalli" ; Times: 1
+	Query: "mustela frenata" ; Times: 1
+	Query: "Onychomys leucogaster" ; Times: 1
+	Query: "Erethizon" ; Times: 1
+	Query: "dipodomys spectabilis" ; Times: 1
+	Query: "class:mammalia massing &gt;= 300 lengthinmm &gt;= 250" ; Times: 1
+	Query: "dipodomys merriami" ; Times: 1
+	Query: "Myotis sodalis" ; Times: 1
+	Query: "Tamiasciurus hudsonicus" ; Times: 2
+	Query: "vulpes vulpes" ; Times: 1
+	Query: "Dicrostonyx groenlandicus" ; Times: 1
+	Query: "lasiurus cinereus" ; Times: 2
+	Query: "Cynomys ludovicianus" ; Times: 2
+	Query: "Glaucomys volans" ; Times: 1
+	Query: "Zapus hudsonius" ; Times: 2
+	Query: "Neotoma albigula" ; Times: 1
+	Query: "eptesicus fuscus" ; Times: 1
+	Query: "specificepithet:floridanus genus:Sylvilagus hasmass:1" ; Times: 1
+	Query: "specificepithet:velox genus:vulpes hasmass:1 haslength:1" ; Times: 1
+	Query: "Castor canadensis" ; Times: 1
+	Query: "Microtus pennsylvanicus" ; Times: 1
+	Query: "Reithrodontomys fulvescens" ; Times: 1
+	Query: "order:Cingulata hasmass:1 haslength:1" ; Times: 1
+
+
+End of report.
